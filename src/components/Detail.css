@@ -1,0 +1,18 @@
+.container_detail{
+    margin-top: 36px;
+}
+.col-img{
+    border-right: 1px solid #dee2e6;
+}
+.line-bott{
+    border-bottom: 1px solid #dee2e6;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.button-beli{
+    width: 40%;
+    margin-top: 50%;
+}
